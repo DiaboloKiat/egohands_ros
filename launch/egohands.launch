@@ -6,8 +6,8 @@
     <include file="$(find egohands_ros)/launch/egohands_publisher.launch"/>
 
     <!-- Open egohands_service -->
-    <include file="$(find egohands_ros)/launch/egohands_service.launch"/>
+    <!-- <include file="$(find egohands_ros)/launch/egohands_service.launch"/> -->
 
     <!-- Open egohands_action -->
-    <include file="$(find egohands_ros)/launch/egohands_action.launch"/>
+    <!-- <include file="$(find egohands_ros)/launch/egohands_action.launch"/> -->
 </launch>
